@@ -97,14 +97,17 @@ http://localhost:8501
 
 ## 📊 Example Results
 
-![Option-Chain-Preview](simulator_screenshots/option_chain_preview.png)
-- Option Chain Preview
-![Underlying-vs-options](simulator_screenshots/underlying_vs_options.png)
-- Underlying vs options
-![Delta-hedge-vs-shares](simulator_screenshots/delta_hedge.png)
-- Delta Hedge vs Shares
-![Delta-Hedging-Simulation](simulator_screenshots/delta_hedge_simulation.png)
-- Delta-Hedging Simulation
+### Option Chain Preview
+![Option Chain Preview](simulator_screenshots/option_chain_preview.png)
+
+### Underlying vs Options
+![Underlying vs Options](simulator_screenshots/underlying_vs_options.png)
+
+### Delta Hedge vs Shares
+![Delta Hedge vs Shares](simulator_screenshots/delta_hedge.png)
+
+### Delta-Hedging Simulation
+![Delta-Hedging Simulation](simulator_screenshots/delta_hedge_simulation.png)
 
 ## 🔮 Extensions
 
